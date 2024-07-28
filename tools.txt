@@ -1,0 +1,5 @@
+download.docker.com
+files.pythonhosted.org
+download-installer.cdn.mozilla.net
+cdn.stubdownloader.services.mozilla.com
+cdn.ldplayer.net
