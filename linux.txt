@@ -8,3 +8,4 @@ archive.ubuntu.com
 ppa.launchpad.net
 bd.archive.ubuntu.com
 armbian.tnahosting.net
+mirror.sg.gs
